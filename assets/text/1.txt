@@ -1,0 +1,5 @@
+"Stray Cat" "" "Meo, meo, meo, meo!"
+"????" "" "Cứu tôi! cứu tôi!"
+"????" "" "Ai đó làm ơn giúp đỡ tôi!"
+"Stray Cat" "" "Meo, Meo, Meo!"
+"????" "" "Chú mèo tốt bụng ơi! Làm ơn giúp tôi lấy cục pin con thỏ trên kia với!"

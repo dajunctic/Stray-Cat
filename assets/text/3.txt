@@ -1,0 +1,5 @@
+"Bot" "" "Aaaaaaaa! Tôi đã được tự do!"
+"Stray Cat" "" "Méo, méo, meo!"
+"Bot" "" "Chào bạn méo bé nhỏ, cảm ơn bạn đã giúp tôi!"
+"Vũ Quý Đạt" "" "Chịu! Lười nghĩ cốt truyện quá!"
+"Bot" "" "Nhìn thấy máy chơi game kia không! Ra đấy và chơi đạp chuột đi con mèo mất nết kia!"

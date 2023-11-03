@@ -1,0 +1,3 @@
+"Bot" "" "Bạn muốn mua ti vi! À nhầm bạn muốn về với tự nhiên ư!"
+"Stray Cat" "" "Meo, meo, meo!"
+"Bot" "" "Đi theo tôi, tôi sẽ giúp bạn vượt qua đống chướng ngại vật và trở về khu rừng nào!"

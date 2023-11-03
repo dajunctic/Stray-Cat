@@ -1,0 +1,4 @@
+"Lonely Cat" "" "Meow Meow"
+"Fly Bot" "" "Chúng ta đã tới cánh cổng, có lẽ nơi đây "
+"Lonely Cat" "" "Meow Meow! Meow Meow! <vui sướng>"
+"Fly Bot" "" "Hành trình của chúng ta đã kết thúc! Trở về thôi bạn nhỏ của tôi!"

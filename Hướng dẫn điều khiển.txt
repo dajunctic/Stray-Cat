@@ -1,0 +1,12 @@
+Enter để bắt đầu chơi
+
+Click chuột để chạy hội thoại
+
+Di chuuyển con mèo bằng a w d
+
+Lấy cục pin -> đưa cho con bot
+
+Chơi đập chuột -> dùng chuột
+Chơi flappy cat -> space
+
+Chơi xong -> Hết game 
